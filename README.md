@@ -34,12 +34,12 @@ Colete o máximo de confetes possível para aumentar sua pontuação! Cada confe
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/jogo-carnaval.git
+   git clone https://github.com/eduardohen1/CarnavalApp.git
    ```
 
 2. Navegue até a pasta do projeto:
    ```bash
-   cd jogo-carnaval
+   cd CarnavalApp
    ```
 
 3. Compile o código:
@@ -63,10 +63,6 @@ jogo-carnaval/
 └── README.md               # Este arquivo
 ```
 
-## 📝 Modificações Recentes
-
-- Os arquivos de mídia (`marchinha.wav` e `fundo_carnaval.png`) agora estão localizados na raiz do projeto para facilitar a execução.
-- Ajustes no código para carregar os arquivos da nova localização.
 
 ## 🎯 Ideias para Melhorias Futuras
 
@@ -89,10 +85,6 @@ Este jogo foi desenvolvido usando conceitos de:
 - Interface gráfica com Java Swing
 - Animações e detecção de colisão
 - Reprodução de áudio com a API javax.sound
-
-## 📜 Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
 
 ---
 
