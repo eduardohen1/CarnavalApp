@@ -1,6 +1,6 @@
 # 🎭 Jogo de Carnaval em Java Swing 🎉
 
-![Banner Carnaval](fundo_carnaval.png)
+![Banner Carnaval](imgApp/inicial.PNG)
 
 ## 📋 Sobre o Projeto
 
@@ -74,7 +74,7 @@ jogo-carnaval/
 
 ## 📷 Capturas de Tela
 
-![Tela Inicial](fundo_carnaval.png)
+![Tela Inicial](imgApp/game.PNG)
 *A tela inicial do jogo*
 
 ## 👨‍💻 Desenvolvimento
