@@ -55,7 +55,7 @@ Colete o máximo de confetes possível para aumentar sua pontuação! Cada confe
 ## 📁 Estrutura de Arquivos
 
 ```
-jogo-carnaval/
+CarnavalApp/
 │
 ├── JogoCarnaval.java       # Código fonte do jogo
 ├── marchinha.wav           # Arquivo de áudio para música de fundo
